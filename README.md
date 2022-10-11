@@ -21,7 +21,5 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://m.media-amazon.com/images/I/51xHI11aCvS._SX396_BO1,204,203,200_.jpg" alt="grokking algorithms" width="200" height="270"/> </a>  </p>
 
 <h3 align="left">Quotes I live by:</h3>
-<p align="left">
-<div> Stay hungry stay foolish </div>
-<div> Time is money </div>
-</p>
+- 📫 Stay hungry stay foolish </br>
+- 📫 Time is money
