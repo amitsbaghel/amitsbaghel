@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Baghel</h1>
-<h3 align="center">A geek with a creative drive to software application development and out of the box thinking to find unique solutions to difficult engineering problems.</h3>
+<h3 align="center">Senior Software Engineer with around 8 years of experience in Microsoft technologies.</h3>
+<h3 align="center">LeetCoding these days</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsbaghel&label=Profile%20views&color=0e75b6&style=flat" alt="amitsbaghel" /> </p>
 
