@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Baghel</h1>
 <h3 align="center">Senior Software Engineer | Interested in C#, Microsoft technologies, Object Oriented programming, design patterns, concurrent programming.</h3>
-<h3 align="center">LeetCoding these days</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsbaghel&label=Profile%20views&color=0e75b6&style=flat" alt="amitsbaghel" /> </p>
 
